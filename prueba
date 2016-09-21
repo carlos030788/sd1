@@ -1,11 +1,14 @@
 <marquee>Bienvenidos a mi página</marquee>
 <html>
     <head>
-        <title>SD1-Github</title>
+       <title>Ejemplo de 2 párrafos</title>
     </head>
     <body>
     
         <script>
+        <p>Esto es un párrafo.</p>
+        <p>Esto es otro párrafo.</p>
+        
         alert("Hello world!");
         </script>
     
