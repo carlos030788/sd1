@@ -1,0 +1,13 @@
+<marquee>Bienvenidos a mi página</marquee>
+<html>
+    <head>
+        <title>SD1-Github</title>
+    </head>
+    <body>
+    
+        <script>
+        alert("Hello world!");
+        </script>
+    
+    </body>
+</html>
